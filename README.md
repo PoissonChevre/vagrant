@@ -35,7 +35,7 @@ Le Port Forwarding consiste à lier un port de votre machine hôte à un port de
 
 ## [Command-Line Interface](https://developer.hashicorp.com/vagrant/docs/cli)
 
-Toutes les interactions avec Vagrant se font ligne de commande.  
+Toutes les interactions avec Vagrant se font en ligne de commande.  
 ![vagrant2](./vagrant2.png)
 
 ## Ressources  
