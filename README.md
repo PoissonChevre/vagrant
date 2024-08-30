@@ -35,7 +35,7 @@ Le Port Forwarding consiste à lier un port de votre machine hôte à un port de
 
 ## [Command-Line Interface](https://developer.hashicorp.com/vagrant/docs/cli)
 
-All interaction with Vagrant is done through the command-line interface.  
+Toutes les interactions avec Vagrant se font ligne de commande.  
 ![vagrant2](./vagrant2.png)
 
 ## Ressources  
@@ -49,6 +49,10 @@ All interaction with Vagrant is done through the command-line interface.
 ### [Vagrant Libvirt Plugin to Manage KVM Virtual Machines on Ubuntu Linux](https://www.youtube.com/watch?v=PywnhhboKyQ)
 
 ### [Stéphane Robert: Maitriser Vagrant](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/vagrant/introduction/)
+
+### [Eazytraining: Formation Gratuite Complète Vagrant pour DevOps](https://www.youtube.com/watch?v=z4209uoIbmk)
+
+### [Eazytraining: Formation Gratuite Complète Vagrant pour DevOps ==> github des labs](https://github.com/eazytrainingfr/vagrant-for-devops)
 
 ### [About Vagrant Installation and Setup & Vagrant Cheat Sheet](https://learningdevops.hashnode.dev/chapter-3-about-vagrant-installation-and-setup-vagrant-cheat-sheet)
 
